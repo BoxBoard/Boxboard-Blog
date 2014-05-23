@@ -1,0 +1,59 @@
+title:            BoxBoard Blog
+tagline:          Crossfit Community Everywhere
+description:      Take your CrossFit community with you when you leave the gym.
+#Comment out url when working locally to resolve base urls correctly
+# url: http://blog.boxboard.io
+
+# Owner/author information
+owner:
+  name:           BoxBoard Blog
+  avatar:         http://f.cl.ly/items/2f281F3R1M392S3F092b/Screen%20Shot%202014-03-11%20at%2012.08.25%20PM.png
+  bio:            "Crossfit Rocks"
+  email:          jason@boxboard.io
+  twitter:        boxboardapp        
+  github:         boxboard       
+  # instagram:      ctrunsthis     
+  # dribbble:       coletownsend
+  disqus:         boxboard
+  location:       "Dallas, TX"
+  # Plug in your disqus shortname!
+
+tools:
+  standards:      "HTML, SCSS, Jekyll"
+  software:       "git"
+
+# Links to include in top navigation
+# For external links add external: true
+links:
+  - title: Sign Up
+    url: http://boxboard.io/users/sign_up
+    external: true
+  - title: Sign In
+    url: http://boxboard.io/users/sign_in
+    external: true
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    America/Chicago
+future:      true
+pygments:    true
+markdown:    kramdown
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
+
+  coderay:
+    coderay_line_numbers: 
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: class
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp"]

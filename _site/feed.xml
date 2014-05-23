@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+<title type="text">BoxBoard Blog</title>
+<subtitle type="text">Crossfit Community Everywhere</subtitle>
+<generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
+<link rel="self" type="application/atom+xml" href="/feed.xml" />
+<link rel="alternate" type="text/html" href="" />
+<updated>2014-05-23T12:29:45-05:00</updated>
+<id>/</id>
+<author>
+  <name>BoxBoard Blog</name>
+  <uri>/</uri>
+  <email>jason@boxboard.io</email>
+</author>
+
+
+<entry>
+  <title type="html"><![CDATA[Facebook, Twitter, New Boxes & Workout Entry]]></title>
+  <link rel="alternate" type="text/html" href="/newsletter/Facebook-Twitter-New-Boxes-Workout-Entry" />
+  <id>/newsletter/Facebook-Twitter-New-Boxes-Workout-Entry</id>
+  <published>2014-05-22T00:00:00-05:00</published>
+  <updated>2014-05-22T00:00:00-05:00</updated>
+  <author>
+    <name>BoxBoard Blog</name>
+    <uri></uri>
+    <email>jason@boxboard.io</email>
+  </author>
+  <content type="html">&lt;h2 id=&quot;welcome&quot;&gt;Welcome!&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;http://f.cl.ly/items/0C1y340e20221r1H0708/compy.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We haven’t been sitting around either. This month we’ve added several new features and fixed the user reported bugs.&lt;/p&gt;
+
+&lt;h3 id=&quot;facebook-and-twitter-authentication&quot;&gt;Facebook and Twitter Authentication&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;http://f.cl.ly/items/3C2W0m3E3H3K1e1o222L/Screen%20Shot%202014-03-27%20at%204.22.43%20PM.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We’ve made it even easier to login. You can now connect your account to Twitter and Facebook and use them to authenticate with Boxboard. Signing in is as easy as logging in to Facebook. That’s it! To add it to your account, simply go to your user settings page and connect with Facebook and Twitter.&lt;/p&gt;
+
+&lt;p&gt;Speaking of passwords, have you forgot your password or need to reset it? We have numerous ways that you can update it. If you forgot your password, just click the “Forgot Password Button” on any of the sign in pages and follow the steps. If you’re logged into the app, you can change your password by going to the profile settings page and enter a new password.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://f.cl.ly/items/41031N1T1G2V0S3Z1u0o/compy-iphone.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;re-designed-workout-entry&quot;&gt;Re-designed Workout Entry&lt;/h3&gt;
+
+&lt;p&gt;We’re trying to add new features left and right. The heart and soul of everything we do on the site begins and ends with the WODS. One of the main differentiating factors about BoxBoard is WODS are shared with everyone in the box. This means each person doesn’t have to individually enter the workout. One person from the box enters the workout and it’s automatically shared. Entering a WOD has improved as well. We separated out movements into their own view to make it easier to add.&lt;/p&gt;
+
+&lt;p&gt;Now that we’ve had our WOD overhaul, the next big hurdle is benchmark WODS, like heroes and the girls. We are also working on importing data from other WOD tracking apps. Stay tuned to check out all the new features that will be offered!&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/newsletter/Facebook-Twitter-New-Boxes-Workout-Entry&quot;&gt;Facebook, Twitter, New Boxes & Workout Entry&lt;/a&gt; was originally published by BoxBoard Blog at &lt;a href=&quot;&quot;&gt;BoxBoard Blog&lt;/a&gt; on May 22, 2014.&lt;/p&gt;</content>
+</entry>
+
+</feed>
