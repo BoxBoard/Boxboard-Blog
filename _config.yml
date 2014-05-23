@@ -3,6 +3,7 @@ tagline:          Crossfit Community Everywhere
 description:      Take your CrossFit community with you when you leave the gym.
 #Comment out url when working locally to resolve base urls correctly
 # url: http://blog.boxboard.io
+url: http://jasoncypret.github.io/boxblog/
 
 # Owner/author information
 owner:
