@@ -5,7 +5,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2014-05-23T12:29:45-05:00</updated>
+<updated>2014-05-23T14:36:28-05:00</updated>
 <id>/</id>
 <author>
   <name>BoxBoard Blog</name>
@@ -16,8 +16,8 @@
 
 <entry>
   <title type="html"><![CDATA[Facebook, Twitter, New Boxes & Workout Entry]]></title>
-  <link rel="alternate" type="text/html" href="/newsletter/Facebook-Twitter-New-Boxes-Workout-Entry" />
-  <id>/newsletter/Facebook-Twitter-New-Boxes-Workout-Entry</id>
+  <link rel="alternate" type="text/html" href="/newsletter/Facebook-Twitter-New" />
+  <id>/newsletter/Facebook-Twitter-New</id>
   <published>2014-05-22T00:00:00-05:00</published>
   <updated>2014-05-22T00:00:00-05:00</updated>
   <author>
@@ -45,7 +45,55 @@
 
 &lt;p&gt;Now that we’ve had our WOD overhaul, the next big hurdle is benchmark WODS, like heroes and the girls. We are also working on importing data from other WOD tracking apps. Stay tuned to check out all the new features that will be offered!&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/newsletter/Facebook-Twitter-New-Boxes-Workout-Entry&quot;&gt;Facebook, Twitter, New Boxes & Workout Entry&lt;/a&gt; was originally published by BoxBoard Blog at &lt;a href=&quot;&quot;&gt;BoxBoard Blog&lt;/a&gt; on May 22, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/newsletter/Facebook-Twitter-New&quot;&gt;Facebook, Twitter, New Boxes & Workout Entry&lt;/a&gt; was originally published by BoxBoard Blog at &lt;a href=&quot;&quot;&gt;BoxBoard Blog&lt;/a&gt; on May 22, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[First month in and lots of new features]]></title>
+  <link rel="alternate" type="text/html" href="/newsletter/first-month-new-features" />
+  <id>/newsletter/first-month-new-features</id>
+  <published>2014-04-18T00:00:00-05:00</published>
+  <updated>2014-04-18T00:00:00-05:00</updated>
+  <author>
+    <name>BoxBoard Blog</name>
+    <uri></uri>
+    <email>jason@boxboard.io</email>
+  </author>
+  <content type="html">&lt;h3 id=&quot;automatic-movement-tracking&quot;&gt;Automatic Movement Tracking&lt;/h3&gt;
+
+&lt;p&gt;Automatically track and map each movement and weight. It makes it really easy to see your progressions over time.&lt;/p&gt;
+
+&lt;h3 id=&quot;mobile-enhancements&quot;&gt;Mobile Enhancements&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://s.jasoncypret.com/image/3p0s34392i3P/Screen%20Shot%202014-01-31%20at%205.13.47%20PM.png&quot; alt=&quot;Image&quot; /&gt;
+Most of our members use BoxBoard while they are at the box. We’ve improved our mobile design and performance.&lt;/p&gt;
+
+&lt;h3 id=&quot;private-scores&quot;&gt;Private Scores&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://f.cl.ly/items/2f2i3s0W3G3W3G2D3D3K/Screen%20Shot%202014-01-31%20at%205.16.12%20PM.png&quot; alt=&quot;Image&quot; /&gt;
+There are some days we just show up and don’t compete. Check in to participate, but keep your score to yourself.&lt;/p&gt;
+
+&lt;h3 id=&quot;leaderboard&quot;&gt;Leaderboard&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://s.jasoncypret.com/image/1O3d0Q2D3d0F/Snatch-HSPU%20-%20CrossFit%20Waxahachie.png&quot; alt=&quot;Image&quot; /&gt;
+The leaderboard is in and it’s awesome! See how you compare and who’s in the lead anytime.&lt;/p&gt;
+
+&lt;h3 id=&quot;howd-it-feel-and-notes&quot;&gt;“How’d it feel?” and Notes&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://s.jasoncypret.com/image/3l2W0P0m2L3G/Screen%20Shot%202014-01-31%20at%205.10.00%20PM.png&quot; alt=&quot;Image&quot; /&gt;
+For each workout you can add personal notes about the workout as well as how it felt.&lt;/p&gt;
+
+&lt;h3 id=&quot;additional-features&quot;&gt;Additional Features&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Set Workout to Post Later&lt;/li&gt;
+  &lt;li&gt;Rep Scheme Calculation&lt;/li&gt;
+  &lt;li&gt;Automatic Abbreviated Workout Description&lt;/li&gt;
+  &lt;li&gt;User Avatars&lt;/li&gt;
+&lt;/ul&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/newsletter/first-month-new-features&quot;&gt;First month in and lots of new features&lt;/a&gt; was originally published by BoxBoard Blog at &lt;a href=&quot;&quot;&gt;BoxBoard Blog&lt;/a&gt; on April 18, 2014.&lt;/p&gt;</content>
 </entry>
 
 </feed>

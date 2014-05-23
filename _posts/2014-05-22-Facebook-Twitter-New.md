@@ -4,6 +4,8 @@ title: "Facebook, Twitter, New Boxes & Workout Entry"
 description: "It’s an exciting time for CrossFit and BoxBoard! Almost 80 Boxes have signed up. Since the open began, we have seen a huge increase in interest for the beta. We’ve got gyms signed up from all over the U.S. and a half dozen across the pond. To all the new athletes:"
 comments: true
 category: newsletter
+image:
+  feature: kettlebell.jpg
 ---
 ## Welcome!
 ![](http://f.cl.ly/items/0C1y340e20221r1H0708/compy.jpg)

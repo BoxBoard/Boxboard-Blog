@@ -3,5 +3,5 @@ layout: home
 title: "BoxBoard Blog"
 tags: [CrossFit]
 image:
-  feature: typewriter.jpg
+  feature: Cheer.jpg
 ---
