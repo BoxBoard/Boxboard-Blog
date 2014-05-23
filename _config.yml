@@ -1,7 +1,6 @@
 title:            BoxBoard Blog
 tagline:          Crossfit Community Everywhere
 description:      Take your CrossFit community with you when you leave the gym.
-#Comment out url when working locally to resolve base urls correctly
 # url: http://blog.boxboard.io
 url: http://jasoncypret.github.io/boxblog
 
@@ -13,11 +12,8 @@ owner:
   email:          jason@boxboard.io
   twitter:        boxboardapp        
   github:         boxboard       
-  # instagram:      ctrunsthis     
-  # dribbble:       coletownsend
   disqus:         boxboard
   location:       "Dallas, TX"
-  # Plug in your disqus shortname!
 
 tools:
   standards:      "HTML, SCSS, Jekyll"

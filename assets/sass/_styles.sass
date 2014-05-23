@@ -262,6 +262,67 @@ header.site-header nav
     .intro
       text-align: left
 
+// Up Next
+.next
+  background: shade(white, 10%)
+  margin-top: $pad*6
+  position: relative
+  .nexty_image
+    position: absolute
+    z-index: 1
+    top: 0
+    left: 0
+    width: 100%
+    height: 100%
+    +background_cover
+    background-size: cover
+  .overy
+    position: absolute
+    z-index: 1
+    top: 0
+    left: 0
+    width: 100%
+    height: 100%
+    background: rgba(black, 0.4)
+  .wrap
+    padding: $pad*6 0
+    position: relative
+    z-index: 2
+    +column(8)
+    max-width: 680px
+    display: block
+    margin: 0 auto
+    float: none
+    .up_next
+      color: white
+      text-transform: uppercase
+      font-family: $sans
+      color: rgba(white, 0.6)
+      font-weight: 600
+      font-size: 14px
+      // line-height: 20px
+      padding-top: $pad
+      border-top: 1px solid rgba(white, 0.6)
+      display: block
+      margin-bottom: $pad*3.5
+    h6
+      a
+        color: white
+        font-weight: 900
+        font-size: 38px
+        font-family: $sans
+    p
+      color: rgba(white, 0.85)
+      font-family: $serif
+@media only screen and (max-width: $breakpoint-1-max-width)
+  .next
+    .wrap
+      +column(9)
+      max-width: 420px
+      display: block
+      margin: 0 auto
+      float: none
+
 // Archive Page
 
 .archive
@@ -298,10 +359,15 @@ header.site-header nav
         position: relative
         &:hover
           +transit
-      .post-image
+      .posty_image
         display: block
-        width: 50px
-        height: 50px
+        width: 100px
+        height: 100px
+        +background_cover
+        background-size: cover
+        position: absolute
+        left: -120px
+        border-radius: 100px
 
       h1
         font-size: $fs3
@@ -322,6 +388,7 @@ header.site-header nav
       text-transform: uppercase
       vertical-align: middle
 
+
 // Post Formatting
 
 .post
@@ -339,6 +406,10 @@ header.site-header nav
       margin-bottom: $lh / 2
   h1
     // font-style: italic
+    a
+      color: $black
+      &:hover
+        color: $accent !important
   h1, h2, h3, h4, h5
     padding-top: $lh * 1 / 2
     margin-bottom: $lh * 1 / 2
@@ -407,8 +478,8 @@ header.site-header nav
       +transit(all, 0.2s, ease)
 
 // Footer Stuff
-.push
-  height: $footerHeight / 4 !important
+// .push
+//   height: $footerHeight / 4 !important
 
 footer
   width: 100%
