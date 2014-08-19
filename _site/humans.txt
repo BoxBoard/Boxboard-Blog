@@ -1,5 +1,5 @@
 /* TEAM */
-Creator: BoxBoard Blog
+Creator: BoxBoard
 Contact: jason@boxboard.io
 Twitter: boxboardapp
 Location: Dallas, TX
@@ -9,6 +9,6 @@ Creator of Balzac theme: Cole Townsend
 Twitter: @twnsndco
 
 /* SITE */                         
-Last update: 2014-05-23
+Last update: 2014-05-27
 Standards: HTML, SCSS, Jekyll                        
 Software: git
